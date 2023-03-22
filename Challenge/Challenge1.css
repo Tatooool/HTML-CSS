@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    background-color: #c5c5c5;
+}
+.card{
+
+    max-width: 250px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 30px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-top: 10px #8132a3 solid;
+    
+}
+
+img {
+    box-shadow: 0 4px 8px 0 #eeeeee;
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+input{
+    color: black;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+.title{
+    font-size: 12px;
+    font-weight: bolder;
+    color: black;
+    margin: 0%;
+}
+
